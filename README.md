@@ -2,7 +2,7 @@ Role Name
 =========
 
 
-
+https://blog.raw.pm/en/archlinux-install-blackarch-without-gnupg-behind-proxy/
 
 $ wget https://blackarch.org/keyring/blackarch-keyring.pkg.tar.xz
 $ tar xaf https://blackarch.org/keyring/blackarch-keyring.pkg.tar.xz
